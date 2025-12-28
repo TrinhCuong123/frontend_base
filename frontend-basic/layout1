@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="style1.css">
+  <title>Layout1</title>
+</head>
+<body>
+
+  <div class="layout">
+
+  <div class="box header">Header</div>
+
+  <div class="main">
+
+      <div class="box nav">Nav</div>
+
+      <div class="right">
+          <div class="box article">Article</div>
+          <div class="box ads">Ads</div>
+      </div>
+
+      <div class="box footer">Footer</div>
+
+  </div>
+
+</div>
+
+
+</body>
+</html>
